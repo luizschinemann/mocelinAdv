@@ -14,12 +14,12 @@
 Route::get('/', function () {   
     return view('index');
 });
-Route::get('/sobre-nos', function () {    
-    return View::make('sobre-nos');
+Route::get('/quem-somos', function () {    
+    return View::make('quem-somos');
 });
 
-Route::get('/solucoes', function () {    
-    return View::make('solucoes');
+Route::get('/areas-de-atuacao', function () {    
+    return View::make('areas-de-atuacao');
 });
 
 Route::get('/equipe', function () {    

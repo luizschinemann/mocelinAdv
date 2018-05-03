@@ -4,12 +4,13 @@
     <div class="carousel-inner">
         <div class="carousel-item active">
             <img class="d-block w-100" src="{{asset('img/slider/slide-1.jpg')}}" alt="First slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h2>Transparência, senso crítico, capacidade técnica e objetividade</h2>
+            
+            </div>
         </div>
         <div class="carousel-item">
             <img class="d-block w-100" src="{{asset('img/slider/slide-2.jpg')}}" alt="Second slide">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block w-100" src="{{asset('img/slider/slide-3.jpg')}}" alt="Third slide">
         </div>
     </div>
 </div>
