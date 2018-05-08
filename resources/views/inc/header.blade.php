@@ -1,1 +1,1 @@
-<img src="{{asset('img/logo.jpg')}}"  class="mx-auto d-block" width="250px">
+<img src="{{asset('public/img/logo.jpg')}}"  class="mx-auto d-block" width="250px">

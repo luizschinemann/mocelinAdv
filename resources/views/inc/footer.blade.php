@@ -6,7 +6,7 @@
 
 
 
-    <script href="{{asset('js/app.js')}}"> </script>
+    <script href="{{asset('public/js/app.js')}}"> </script>
 
 
 
@@ -18,9 +18,9 @@ var sticky = navbar.offsetTop;
 
 function myFunction() {
   if (window.pageYOffset >= sticky) {
-    navbar.classList.add("sticky")
+    navbar.classList.add("sticky-top")
   } else {
-    navbar.classList.remove("sticky");
+    navbar.classList.remove("sticky-top");
   }
 }
 </script>
