@@ -3,7 +3,7 @@
 <div class="container">
     <div class="row">
         <div class="col-5">
-                <img  src="{{asset('public/img/law01.jpg')}}" alt="Deusa Artemis">
+                <img  src="{{asset('public/img/law01.jpg')}}" class="img-fluid" alt="Deusa Artemis">
         </div>
         <div class="col-7">O Escritório de Advocacia Fernando Mocelin Moraes & Advogados presta serviços jurídicos com um padrão de excelência e elevado nível técnico nas áreas de Direito do Trabalho, Médico, Consumidor e Civil.
                 
