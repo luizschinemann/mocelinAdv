@@ -46,7 +46,6 @@ Route::get('/contato', function () {
     return View::make('contato');
 });
 
+Auth::routes();
 
-
-
-
+Route::get('/home', 'HomeController@index')->name('home');
