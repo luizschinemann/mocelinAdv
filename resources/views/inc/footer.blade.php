@@ -1,5 +1,5 @@
 <footer class="footer">
-    <div class="container">
+    <div class="container text-center">
         <span class="text-muted">
           Avenida Cândido de Abreu, 526 - sala 304 - bloco B<br>
           Centro Cívico, Curitiba - PR<br>
