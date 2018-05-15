@@ -1,6 +1,10 @@
 <footer class="footer">
     <div class="container">
-        <span class="text-muted">Place sticky footer content here.</span>
+        <span class="text-muted">
+          Avenida Cândido de Abreu, 526 - sala 304 - bloco B<br>
+          Centro Cívico, Curitiba - PR<br>
+          CEP: 80530-000
+          </span>
     </div>
 </footer>
 
