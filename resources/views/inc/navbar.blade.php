@@ -18,6 +18,9 @@
                     <a class="nav-link" href="equipe">Equipe</a>
                 </li>            
                 <li class="nav-item">
+                        <a class="nav-link" href="publicacoes">Publicações</a>
+                    </li>     
+                <li class="nav-item">
                     <a class="nav-link" href="contato">Contato</a>
                 </li>  
             </ul>          
