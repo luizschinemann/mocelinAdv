@@ -3,7 +3,7 @@
 
 <div class="container">
 	<div class="row">
-		<div class="col-3" style="margin-right:80px;">
+		<div class="mt-2 col-3">
 			<img src="{{asset('public/img/user.png')}}" alt="FERNANDO HENRIQUE PIRES MOCELIN MORAES" class="mx-auto d-block">
 		</div>
 		<div class="col-8">
