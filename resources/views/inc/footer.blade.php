@@ -1,4 +1,4 @@
-<footer class="footer footer-body">
+<footer class="footer footer-body fixed-bottom">
     <div class="container text-center">
         <span class="text-white">
           Avenida Cândido de Abreu, 526 - sala 304 - bloco B<br>
