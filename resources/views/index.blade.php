@@ -16,7 +16,7 @@
 </div>
 <div class="clearfix"></div>
 <div class="container">
-    <div class="row">
+    <div class=" mt-4 mb-4 row">
         <div class="col-sm">Trabalhista</div>
         <div class="col-sm">Healthcare</div>
         <div class="col-sm">Direito do consumidor</div>
