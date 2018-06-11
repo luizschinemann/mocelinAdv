@@ -49,6 +49,10 @@ Route::get('/fernando-mocelin-moraes', function () {
     return View::make('mocelin');
 });
 
+Route::get('/rodrigo-correa-nunes', function () {    
+    return View::make('correa');
+});
+
 
 Auth::routes();
 
