@@ -14,7 +14,7 @@
         </div>
     </div>
 </div>
-<div class="clearfix"></div>
+
 <div class="container">
     <div class=" mt-4 mb-4 row">
         <div class="col-sm">Trabalhista</div>
@@ -23,6 +23,6 @@
         <div class="col-sm">Civel</div>
     </div>
 </div>
-<div class="clearfix"></div>
+
 
 @endsection

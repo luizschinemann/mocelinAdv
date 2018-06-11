@@ -2,7 +2,7 @@
 @section('content')
 <img  src="{{asset('public/img/quemsomos.png')}}" class="img-fluid" alt="Quem somos">
 <div class="container">
-    <div class="row">
+    <div class="row mt-4 mb-4">
         <div class="col-5">
                 <img  src="{{asset('public/img/law01.jpg')}}" class="img-fluid" alt="Deusa Artemis">
         </div>
@@ -19,6 +19,5 @@
     </div>
     
 </div>
-<div style="height:200px;"></div>
 
 @endsection
