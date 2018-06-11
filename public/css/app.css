@@ -10404,7 +10404,7 @@ background-color:#224268;
 }
 .headerEquipe{
   background-color: #b1b1b1;
-  background-image: url({{asset('public/img/user.png')}});
+  background-image: url('public/img/user.png');
   background-repeat: repeat;
   background-position: center center;
   background-size: auto auto;
