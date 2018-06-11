@@ -9,7 +9,7 @@
 				<img src="{{asset('public/img/user.png')}}" alt="FERNANDO HENRIQUE PIRES MOCELIN MORAES" class="mx-auto d-block">
 			</a>
 			<br>
-			<h4><kbd>Fernando Henrique Pires Mocelin Moraes</kbd></h4>
+			<h4>Fernando Henrique Pires Mocelin Moraes</h4>
 		</div>		
 	</div>	
 	<div class="row justify-content-md-center">		
@@ -19,7 +19,7 @@
 				<img src="{{asset('public/img/user.png')}}" alt="RODRIGO CORREA NUNES" class="mx-auto d-block">
 			</a>
 			<br>
-			<h4><kbd>Rodrigo Correa Nunes</kbd></h4>
+			<h4>Rodrigo Correa Nunes</h4>
 		</div>		
 	</div>	
 </div>
