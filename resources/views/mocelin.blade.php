@@ -2,6 +2,7 @@
 @section('content')
 
 <div class="container">
+<img  src="{{asset('public/img/fernandoMocelin.jpg')}}" class="img-fluid" alt="FERNANDO HENRIQUE PIRES MOCELIN MORAES">
 	<div class="mt-4 mb-4 row">
 		<div class="mr-2 col-3">
 			<img src="{{asset('public/img/user.png')}}" alt="FERNANDO HENRIQUE PIRES MOCELIN MORAES" class="mx-auto d-block">
