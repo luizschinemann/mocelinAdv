@@ -2,7 +2,9 @@
 @section('content')
 <div class="container">
 <div class="row">
-		<h1>Sócio fundador</h1>
+		<div class="d-flex justify-content-center">
+			<h1>Sócio fundador</h1>
+		</div>
 		<div class="">	
 		<a href="{{ url('fernando-mocelin-moraes') }}">
 			<img src="{{asset('public/img/user.png')}}" alt="FERNANDO HENRIQUE PIRES MOCELIN MORAES" class="mx-auto d-block">
