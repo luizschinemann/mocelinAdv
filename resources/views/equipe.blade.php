@@ -4,7 +4,7 @@
 <div class="row">
 		<div class="d-flex justify-content-center">	
 		<a href="{{ url('fernando-mocelin-moraes') }}">
-			<img src="{{asset('public/img/user.png')}}" alt="FERNANDO HENRIQUE PIRES MOCELIN MORAES" class="rounded-circle mx-auto d-block">
+			<img src="{{asset('public/img/user.png')}}" alt="FERNANDO HENRIQUE PIRES MOCELIN MORAES" class="mx-auto d-block">
 		</a>
 		<br>
 		<h4>Fernando Henrique Pires Mocelin Moraes</h4>
