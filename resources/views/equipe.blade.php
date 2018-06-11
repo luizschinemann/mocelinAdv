@@ -1,10 +1,11 @@
 @extends('layout.app')
 @section('content')
-
 <div class="container">
-	<div class="row justify-content-md-center mt-4 mb-4 ">		
 		<div class="col-md-auto">
-			<center><h1 class="border-bottom">Sócio fundador</h1></center>	
+				<center><h1 class="border-bottom">Sócio fundador</h1></center>
+		</div>
+	<div class="row justify-content-md-center mt-4 mb-4 ">		
+			
 			<a href="{{ url('fernando-mocelin-moraes') }}">
 				<img src="{{asset('public/img/user.png')}}" alt="FERNANDO HENRIQUE PIRES MOCELIN MORAES" class="mx-auto d-block">
 			</a>
