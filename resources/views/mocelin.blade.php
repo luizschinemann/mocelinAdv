@@ -2,8 +2,8 @@
 @section('content')
 
 <div class="container">
-	<div class="row">
-		<div class="mt-2 col-3">
+	<div class="mt-2 row">
+		<div class="mr-2 col-3">
 			<img src="{{asset('public/img/user.png')}}" alt="FERNANDO HENRIQUE PIRES MOCELIN MORAES" class="mx-auto d-block">
 		</div>
 		<div class="col-8">
