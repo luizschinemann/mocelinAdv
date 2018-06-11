@@ -46,11 +46,11 @@ Route::get('/contato', function () {
     return View::make('contato');
 });
 Route::get('/fernando-mocelin-moraes', function () {    
-    return View::make('mocelin');
+    return View::make('equipe.mocelin');
 });
 
 Route::get('/rodrigo-correa-nunes', function () {    
-    return View::make('correa');
+    return View::make('equipe.correa');
 });
 
 
