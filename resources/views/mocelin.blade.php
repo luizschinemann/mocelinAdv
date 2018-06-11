@@ -3,10 +3,8 @@
 
 <div class="container">
 	<div class="row">
-		<div class="col-3">
+		<div class="col-3" style="margin-right:80px;">
 			<img src="{{asset('public/img/user.png')}}" alt="FERNANDO HENRIQUE PIRES MOCELIN MORAES" class="mx-auto d-block">
-		</div>
-		<div class="col-1">
 		</div>
 		<div class="col-8">
 				Graduado em Direito pela Pontifícia Universidade Católica do Paraná (PUCPR), tem MBA Executivo em Direito Empresarial pela Fundação Getulio Vargas (FGV) e atualmente é pós-graduando em Novo Direito do Trabalho pela Pontifícia Universidade Católica do Rio Grande do Sul. É sócio-fundador do escritório Fernando Mocelin Moraes & Advogados.
