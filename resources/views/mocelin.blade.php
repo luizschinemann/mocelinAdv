@@ -1,7 +1,7 @@
 @extends('layout.app')
 @section('content')
 <div class="headerEquipe">
-	<div>Fernando Henrique Pires Mocelin Moraes</div>
+	<span class="align-middle">Fernando Henrique Pires Mocelin Moraes</span>
 </div>
 <div class="container">
 
