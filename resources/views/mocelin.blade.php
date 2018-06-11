@@ -1,16 +1,7 @@
 @extends('layout.app')
 @section('content')
 <div class="headerEquipe d-flex">
-	<div class="align-middle align-items-center d-flex justify-content-center">Fernando Henrique Pires Mocelin Moraes</div>
-	<div class="row text-center h-100">
-		<div class="col-md-3 text-center my-auto">
-			<div class="card card-block d-flex" style="height: 120px">
-			<div class="card-body align-items-center d-flex justify-content-center">
-				This is some text within a card body.
-			</div>
-			</div>
-		</div>
-		</div>
+	<div class="h2 align-middle align-items-center d-flex justify-content-center">Fernando Henrique Pires Mocelin Moraes</div>	
 </div>
 <div class="container">
 
