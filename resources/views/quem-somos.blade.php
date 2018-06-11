@@ -1,5 +1,6 @@
 @extends('layout.app')
 @section('content')
+<img  src="{{asset('public/img/quemsomos.png')}}" class="img-fluid" alt="Quem somos">
 <div class="container">
     <div class="row">
         <div class="col-5">
@@ -13,8 +14,11 @@
                 
                 O diferencial dos nossos serviços está na atuação com foco em áreas jurídicas específicas, e esse expertise nos possibilita aplicar metodologias mais modernas e avançadas para cada área do Direito em que atuamos.
                 
-                O resultado é um alto padrão de qualidade à disposição do cliente que se traduz na condução dos serviços oferecidos em busca da melhor solução e conclusão dos processos.</div>
+                O resultado é um alto padrão de qualidade à disposição do cliente que se traduz na condução dos serviços oferecidos em busca da melhor solução e conclusão dos processos.
+	</div>
     </div>
     
 </div>
+<div style="height:200px;"></div>
+
 @endsection

@@ -1,13 +1,12 @@
 @extends('layout.app')
 @section('content')
+<img src="{{asset('public/img/areasatuacao.png')}}"  class="img-fluid" >
     <div class="container">
-        ÁREAS DE ATUAÇÃO
+        <b class="title blue">DIREITO DO TRABALHO</b><br><br>
         
-        DIREITO DO TRABALHO
+        <p>O Escritório Fernando Mocelin & Advogados conta com uma equipe que atua tanto ao lado de empresas quanto do trabalhador.</p>
         
-        O Escritório Fernando Mocelin & Advogados conta com uma equipe que atua tanto ao lado de empresas quanto do trabalhador.
-        
-        O trabalho prestado às empresas visa assegurar a prevenção de ocorrência de litígios trabalhistas, com elaboração e adequação de contratos de trabalho e consultoria prévia, de maneira a evitar passivos trabalhistas, bem como na prestação de defesa eficaz em reclamatórias ajuizadas.
+        <p>O trabalho prestado às empresas visa assegurar a prevenção de ocorrência de litígios trabalhistas, com elaboração e adequação de contratos de trabalho e consultoria prévia, de maneira a evitar passivos trabalhistas, bem como na prestação de defesa eficaz em reclamatórias ajuizadas.</p>
         
         “A Reforma Trabalhista, ao modernizar as relações de trabalho, sedimentou novas formas de contratos individuais, cuja aplicabilidade atenta às diretrizes da nova lei, em atenção aos comandos constitucionais, serve de mecanismo importante na gestão de empresas e na criação de empregos.”
         
@@ -47,7 +46,7 @@
             <li>Integração de valores em remuneração.</li>
         </ul>
         
-        <b>Consultoria para Empresas</b> 
+        <b class="title blue">Consultoria para Empresas</b> 
         <ul>
             <li>Contencioso Judicial Trabalhista;</li>
             <li>Arbitragem, conciliação e Mediação;</li>
@@ -67,13 +66,13 @@
             <li>Transferências temporárias e definitivas, individuais e coletivas, de locais de trabalho.</li>            
         </ul>
         
-        <b>DIREITO MÉDICO (HEALTH CARE)</b><br><br>  
+        <b class="title blue">DIREITO MÉDICO (HEALTH CARE)</b><br><br>  
         
         Visa, principalmente, o aspecto jurídico no trabalho dos profissionais de saúde, especialmente médicos, além de entidades envolvidas na assistência médica.<br>        
         O Escritório Fernando Mocelin Moraes & Advogados oferece atendimento personalizado e eficiente, mantendo seu padrão de qualidade e assertividade nas questões litigiosas também na área do Direito da Saúde, destacando-se  demandas que incluem a defesa do cliente em Ações Judiciais envolvendo Erro Médico; Ações Indenizatórias de procedimentos cirúrgicos ou medicamentosos; Processos Administrativos, dentre outros.<br>        
         Ainda, prestamos consultoria para gestão jurídica de operadoras de saúde de pequeno e médio portes, de maneira a evitar passivos judiciais, em especial na elaboração de contratos que seguiam a essência do Código de Defesa do Consumidor e das Normas da ANS.
-        
-       <b>DIREITO DO CONSUMIDOR</b><br><br>
+        <br><br>
+       <b class="title blue">DIREITO DO CONSUMIDOR</b><br><br>
 
         Nosso escritório é plenamente habilitado para lidar com conflitos de consumo e com a defesa dos direitos dos consumidores. Os serviços prestados por nossa equipe nessa área são:<br>
         <ul>
@@ -86,7 +85,7 @@
             <li>Descumprimento de contratos de planos de saúde;</li>                  
             <li>Defesas administrativas no PROCON.</li>
         </ul>       
-        <b>DIREITO CIVIL</b>
+        <b class="title blue">DIREITO CIVIL</b><br><br>
         
         Esta é uma área do Direito em que são tratadas questões que regulam as relações jurídicas entre as pessoas físicas ou jurídicas, mantendo uma relação de equilíbrio e igualdade de condições.<br>
         

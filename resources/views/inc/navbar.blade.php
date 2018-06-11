@@ -6,7 +6,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mx-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="/">Home</a>
+                    <a class="nav-link" href="http://mocelinmoraes.com.br/mocelinAdv/">Home</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="quem-somos">Quem Somos</a>
@@ -20,10 +20,13 @@
                 <li class="nav-item">
                         <a class="nav-link" href="publicacoes">Publicações</a>
                     </li>     
-                <li class="nav-item">
+                <!--<li class="nav-item">
                     <a class="nav-link" href="contato">Contato</a>
-                </li>  
+                </li>-->  
             </ul>          
         </div>
     <div>
 </nav>
+
+
+

@@ -1,6 +1,6 @@
-<footer class="footer">
+<footer class="footer footer-body">
     <div class="container text-center">
-        <span class="text-muted">
+        <span class="text-white">
           Avenida Cândido de Abreu, 526 - sala 304 - bloco B<br>
           Centro Cívico, Curitiba - PR<br>
           CEP: 80530-000

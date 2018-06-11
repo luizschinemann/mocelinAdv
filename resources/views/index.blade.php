@@ -17,9 +17,10 @@
 <div class="clearfix"></div>
 <div class="container">
     <div class="row">
-        <div class="col-sm">a</div>
-        <div class="col-sm">a</div>
-        <div class="col-sm">a</div>
+        <div class="col-sm">Trabalhista</div>
+        <div class="col-sm">Healthcare</div>
+        <div class="col-sm">Direito do consumidor</div>
+        <div class="col-sm">Civel</div>
     </div>
 </div>
 <div class="clearfix"></div>

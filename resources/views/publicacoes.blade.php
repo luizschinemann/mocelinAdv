@@ -1,4 +1,4 @@
 @extends('layout.app')
 @section('content')
-publicacoes
+<img  src="{{asset('public/img/publicacoes.png')}}" class="img-fluid" alt="Publicações">
 @endsection

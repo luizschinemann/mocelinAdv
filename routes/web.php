@@ -45,6 +45,10 @@ Route::get('/carreiras', function () {
 Route::get('/contato', function () {    
     return View::make('contato');
 });
+Route::get('/fernando-mocelin-moraes', function () {    
+    return View::make('mocelin');
+});
+
 
 Auth::routes();
 

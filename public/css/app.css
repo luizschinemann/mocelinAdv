@@ -10394,3 +10394,12 @@ a.text-dark:focus {
           box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
 }
 
+.title blue{
+color:#224268;
+}
+
+.footer-body{
+color:#fff;
+background-color:#224268;
+}
+
