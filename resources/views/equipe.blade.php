@@ -12,7 +12,7 @@
 			<img src="{{asset('public/img/user.png')}}" alt="FERNANDO HENRIQUE PIRES MOCELIN MORAES" class="mx-auto d-block">
 		</a>
 		<br>
-		<h4>Fernando Henrique Pires Mocelin Moraes</h4>
+		<h4><kbd>Henrique Pires Mocelin Moraes</kbd></h4>
 	</div>		
 	</div>
 </div>
