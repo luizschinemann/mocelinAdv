@@ -1,6 +1,8 @@
 @extends('layout.app')
 @section('content')
-<img  src="{{asset('public/img/fernandoMocelin.jpg')}}" class="img-fluid" alt="FERNANDO HENRIQUE PIRES MOCELIN MORAES">
+<div class="headerEquipe">
+	<div>Fernando Henrique Pires Mocelin Moraes</div>
+</div>
 <div class="container">
 
 	<div class="mt-4 mb-4 row">
