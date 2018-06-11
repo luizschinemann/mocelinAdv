@@ -1,7 +1,7 @@
 @extends('layout.app')
 @section('content')
-<div class="headerEquipe">
-	<span class="align-middle">Fernando Henrique Pires Mocelin Moraes</span>
+<div class="headerEquipe d-flex">
+	<div class="align-items-center d-flex justify-content-center">Fernando Henrique Pires Mocelin Moraes</div>
 </div>
 <div class="container">
 
