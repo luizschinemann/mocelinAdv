@@ -1,7 +1,7 @@
 @extends('layout.app')
 @section('content')
 
-<div class="container">
+<div class="container mt-4 mb-4">
 	<div class="col-md-auto">
 		<center><h1 class="border-bottom">Sócio fundador</h1></center>	
 	</div>
@@ -14,10 +14,10 @@
 			<h4>Fernando Henrique Pires Mocelin Moraes</h4>
 		</div>		
 	</div>	
-	<div class="row justify-content-md-center mt-4 mb-4">		
-			<div class="col-md-auto">
-				<center><h1 class="border-bottom">Estagiário</h1></center>
-			</div>
+	<div class="col-md-auto">
+		<center><h1 class="border-bottom">Estagiário</h1></center>
+	</div>
+	<div class="row justify-content-md-center mt-4 mb-4">					
 		<div class="col-md-auto">
 			<a href="{{ url('fernando-mocelin-moraes') }}">
 				<img src="{{asset('public/img/user.png')}}" alt="RODRIGO CORREA NUNES" class="mx-auto d-block">
