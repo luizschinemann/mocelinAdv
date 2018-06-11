@@ -10404,7 +10404,7 @@ background-color:#224268;
 }
 .headerEquipe{
   background-color: #b1b1b1;
-  background-image: url('public/img/headerBg.jpg');
+  background-image: url('/public/img/headerBg.jpg');
   background-repeat: repeat;
   background-position: center center;
   background-size: auto auto;
