@@ -9,6 +9,10 @@
         <div class="col">
         <img src="{{asset('public/img/artigos/artigo.jpg')}}" class="rounded mx-auto d-block" alt="...">
         </div>
+        <div class="col"></div>
+        <div class="col"></div>
+        <div class="col"></div>
+        <div class="col"></div>
         
     </div>
 </div>
