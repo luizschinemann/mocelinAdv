@@ -17,16 +17,13 @@
                 <li class="nav-item">
                     <a class="nav-link" href="equipe">Equipe</a>
                 </li>            
-                <li class="nav-item">
-                        <a class="nav-link" href="publicacoes">Publicações</a>
-                </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="publicacoes" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Publicações
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="#">Artigos</a>
-                        <a class="dropdown-item" href="#">Notícias</a>
+                        <a class="dropdown-item" href="publicacoes/artigos">Artigos</a>
+                        <a class="dropdown-item" href="publicacoes/noticias">Notícias</a>
                     </div>
                 </li>     
                 <!--<li class="nav-item">
