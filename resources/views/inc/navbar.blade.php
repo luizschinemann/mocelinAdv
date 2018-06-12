@@ -12,18 +12,18 @@
                     <a class="nav-link" href="{{ url('/quem-somos') }}">Quem Somos</a>
                 </li> 
                 <li class="nav-item">
-                    <a class="nav-link" href="areas-de-atuacao">Áreas de atuação</a>
+                    <a class="nav-link" href="{{ url('/areas-de-atuacao') }}">Áreas de atuação</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="equipe">Equipe</a>
+                    <a class="nav-link" href="{{ url('/equipe') }}">Equipe</a>
                 </li>            
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="publicacoes" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Publicações
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="publicacoes/artigos">Artigos</a>
-                        <a class="dropdown-item" href="publicacoes/noticias">Notícias</a>
+                        <a class="dropdown-item" href="{{ url('/publicacoes/artigos') }}">Artigos</a>
+                        <a class="dropdown-item" href="{{ url('/publicacoes/noticias') }}">Notícias</a>
                     </div>
                 </li>     
                 <!--<li class="nav-item">
