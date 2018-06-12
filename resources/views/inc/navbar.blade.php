@@ -9,7 +9,7 @@
                     <a class="nav-link" href="http://mocelinmoraes.com.br/mocelinAdv/">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="quem-somos">Quem Somos</a>
+                    <a class="nav-link" href="{{ url('/quem-somos') }}">Quem Somos</a>
                 </li> 
                 <li class="nav-item">
                     <a class="nav-link" href="areas-de-atuacao">Áreas de atuação</a>
