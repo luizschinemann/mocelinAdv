@@ -17,7 +17,7 @@
 
 <div class="container">
     <div class=" mt-4 mb-4 row">
-        <div class="col-12">Areas de atuacao</div>
+        <h2 class="border-bottom">Areas de atuacao</h2>
         <div class="col-3">Trabalhista</div>
         <div class="col-3">Healthcare</div>
         <div class="col-3">Direito do consumidor</div>
@@ -26,7 +26,7 @@
 </div>
 <div class="container">
     <div class="mt-4 row-6">
-        <h2>Artigos</h2>
+        <h2 class="border-bottom">Artigos</h2>
         <div class="row">
             <div class="col-2">
                 <a href="{{asset('public/files/A crise brasileira e a atuação do Estado sob o enfoque do Estado.docx')}}">
@@ -82,5 +82,11 @@
     
 </div>
 
+<div class="container">
+    <div class="mt-4">
+        <h2>Onde estamos</h2>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14414.264624014577!2d-49.268825!3d-25.419329!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3c678f15c3fd3e90!2sFernando+Mocelin+Moraes+%26+Advogados!5e0!3m2!1spt-BR!2sbr!4v1529001075484" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>    
+</div>
 
 @endsection
