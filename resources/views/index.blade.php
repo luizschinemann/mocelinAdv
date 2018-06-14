@@ -25,7 +25,7 @@
     </div>    
 </div>
 <div class="container">
-    <div class="mt-4 mb-4 row-6">
+    <div class="mt-4 row-6">
         <h2>Artigos</h2>
         <div class="row">
             <div class="col-2">
@@ -35,13 +35,17 @@
                 </a>
             </div>
             <div class="col-2">
-                <a href="{{asset('public/files/A crise brasileira e a atuação do Estado sob o enfoque do Estado.docx')}}">
+                <a href="{{asset('public/files/O entrelace entre o Direito do Consumidor e os contratos de planos de saude.docx')}}">
                 <img src="{{asset('public/img/artigos/artigo2.jpg')}}" class="rounded d-block" style="width:125px;" alt="A crise brasileira e a atuação do Estado sob o enfoque do Estado">
-                <span>A crise brasileira e a atuação do Estado sob o enfoque do Estado</span>
+                <span>O entrelace entre o Direito do Consumidor e os contratos de planos de saúde</span>
                 </a> 
             </div>
         </div>
     </div>
+    <div class="row-6">
+        <a href="http://mocelinmoraes.com.br/mocelinAdv/publicacoes/artigos" class="btn btn-primary btn-lg disabled" role="button" >Acessar todos os artigos</a>
+    </div>
+    
 </div>
 
 
