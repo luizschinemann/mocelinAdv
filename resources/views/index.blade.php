@@ -17,16 +17,29 @@
 
 <div class="container">
     <div class=" mt-4 mb-4 row">
-        <div>Areas de atuacao</div>
-        <div class="col-sm">Trabalhista</div>
-        <div class="col-sm">Healthcare</div>
-        <div class="col-sm">Direito do consumidor</div>
-        <div class="col-sm">Civel</div>
+        <div class="col-12">Areas de atuacao</div>
+        <div class="col-3">Trabalhista</div>
+        <div class="col-3">Healthcare</div>
+        <div class="col-3">Direito do consumidor</div>
+        <div class="col-3">Civel</div>
     </div>    
 </div>
 <div class="container">
     <div class="mt-4 mb-4 row-6">
-       teste
+      <h2>Artigos</h2>
+      <div class="col-2">
+        <a href="{{asset('public/files/A crise brasileira e a atuação do Estado sob o enfoque do Estado.docx')}}">
+        <img src="{{asset('public/img/artigos/artigo2.jpg')}}" class="rounded mx-auto d-block" alt="A crise brasileira e a atuação do Estado sob o enfoque do Estado">
+            <span>A crise brasileira e a atuação do Estado sob o enfoque do Estado</span>
+        </div>
+        </a>    
+    </div>  
+     <div class="col-2">
+        <a href="{{asset('public/files/A crise brasileira e a atuação do Estado sob o enfoque do Estado.docx')}}">
+        <img src="{{asset('public/img/artigos/artigo2.jpg')}}" class="rounded mx-auto d-block" alt="A crise brasileira e a atuação do Estado sob o enfoque do Estado">
+            <span>A crise brasileira e a atuação do Estado sob o enfoque do Estado</span>
+        </div>
+        </a>    
     </div>    
 </div>
 
