@@ -71,25 +71,7 @@
                 <img src="{{asset('public/img/artigos/noticia.jpg')}}" class="rounded d-block" alt="" style="width:125px;">
                 <span>Aprovada isenção de carência para atendimento de urgência por planos de saúde</span>
                 </a>
-            </div>
-            <div class="col-2">
-                <a href="http://www.femipa.org.br/noticias/juizes-negam-pedidos-de-medicamentos-para-evitar-impacto-nos-cofres-publicos/">
-                <img src="{{asset('public/img/artigos/noticia.jpg')}}" class="rounded d-block" alt="" style="width:125px;">
-                <span>Juízes negam pedidos de medicamentos para evitar impacto nos cofres públicos</span>
-                </a>
-            </div>
-            <div class="col-2">
-                <a href="http://www.stj.jus.br/sites/STJ/default/pt_BR/Comunica%C3%A7%C3%A3o/noticias/Not%C3%ADcias/M%C3%A9dico-que-fez-vasectomia-em-vez-de-cirurgia-de-fimose-ter%C3%A1-de-indenizar-paciente">
-                <img src="{{asset('public/img/artigos/noticia.jpg')}}" class="rounded d-block" alt="" style="width:125px;">
-                <span>Médico que fez vasectomia em vez de cirurgia de fimose terá de indenizar paciente</span>
-                </a>
-            </div>
-            <div class="col-2">
-                <a href="http://www.stj.jus.br/sites/STJ/default/pt_BR/Comunica%C3%A7%C3%A3o/noticias/Not%C3%ADcias/Herdeiro-pode-pleitear-usucapi%C3%A3o-extraordin%C3%A1ria-de-im%C3%B3vel-objeto-de-heran%C3%A7a">
-                <img src="{{asset('public/img/artigos/noticia.jpg')}}" class="rounded d-block" alt="" style="width:125px;">
-                <span>Herdeiro pode pleitear usucapião extraordinária de imóvel objeto de herança</span>
-                </a>
-            </div>
+            </div>                   
         </div>
     </div>
     <div class="row mb-4">
