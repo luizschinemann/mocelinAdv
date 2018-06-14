@@ -35,8 +35,7 @@
             </div>
             </a>    
         </div>
-      </div>  
-        <div class="row">
+      
             <div class="col-2">
                 <a href="{{asset('public/files/A crise brasileira e a atuação do Estado sob o enfoque do Estado.docx')}}">
                 <img src="{{asset('public/img/artigos/artigo2.jpg')}}" class="rounded d-block" style="width:125px;" alt="A crise brasileira e a atuação do Estado sob o enfoque do Estado">
