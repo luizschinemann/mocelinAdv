@@ -26,24 +26,22 @@
 </div>
 <div class="container">
     <div class="mt-4 mb-4 row-6">
-      <h2>Artigos</h2>
-      <div class="row">
-        <div class="col-2">
-            <a href="{{asset('public/files/A crise brasileira e a atuação do Estado sob o enfoque do Estado.docx')}}">
-            <img src="{{asset('public/img/artigos/artigo2.jpg')}}" class="rounded d-block" style="width:125px;" alt="A crise brasileira e a atuação do Estado sob o enfoque do Estado">
-                <span>A crise brasileira e a atuação do Estado sob o enfoque do Estado</span>
-            </div>
-            </a>    
-        </div>
-      
+        <h2>Artigos</h2>
+        <div class="row">
             <div class="col-2">
                 <a href="{{asset('public/files/A crise brasileira e a atuação do Estado sob o enfoque do Estado.docx')}}">
                 <img src="{{asset('public/img/artigos/artigo2.jpg')}}" class="rounded d-block" style="width:125px;" alt="A crise brasileira e a atuação do Estado sob o enfoque do Estado">
                     <span>A crise brasileira e a atuação do Estado sob o enfoque do Estado</span>
-                </div>
-                </a>    
+                </a>
             </div>
-        </div>    
+            <div class="col-2">
+                <a href="{{asset('public/files/A crise brasileira e a atuação do Estado sob o enfoque do Estado.docx')}}">
+                <img src="{{asset('public/img/artigos/artigo2.jpg')}}" class="rounded d-block" style="width:125px;" alt="A crise brasileira e a atuação do Estado sob o enfoque do Estado">
+                <span>A crise brasileira e a atuação do Estado sob o enfoque do Estado</span>
+                </a> 
+            </div>
+        </div>
+    </div>
 </div>
 
 
