@@ -16,7 +16,7 @@
 </div>
 
 <div class="container">
-    <div class=" mt-4 mb-4 row">
+    <div class=" mt-4 mb-4 row-">
         <h2 class="border-bottom">Areas de atuacao</h2>
         <div class="row">
             <div class="col-3">Trabalhista</div>
