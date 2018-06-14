@@ -17,7 +17,7 @@
 
 <div class="container">
     <div class=" mt-4 mb-4 row-">
-        <h2 class="border-bottom">Areas de atuacao</h2>
+        <h2 class="border-bottom mb-4">Áreas de atuação</h2>
         <div class="row">
             <div class="col-3">Trabalhista</div>
             <div class="col-3">Healthcare</div>
@@ -28,7 +28,7 @@
 </div>
 <div class="container">
     <div class="mt-4 row-6">
-        <h2 class="border-bottom">Artigos</h2>
+        <h2 class="border-bottom mb-4">Artigos</h2>
         <div class="row">
             <div class="col-2">
                 <a href="{{asset('public/files/A crise brasileira e a atuação do Estado sob o enfoque do Estado.docx')}}">
