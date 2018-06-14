@@ -53,6 +53,10 @@ Route::get('/rodrigo-correa-nunes', function () {
     return View::make('equipe.correa');
 });
 
+Route::get('/cavallieri', function () {    
+    return View::make('equipe.cavallieri');
+});
+
 Route::get('/publicacoes/artigos', function () {    
     return View::make('publicacoes.artigos');
 });

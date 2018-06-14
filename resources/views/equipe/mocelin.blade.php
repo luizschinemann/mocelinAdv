@@ -10,11 +10,7 @@
 			<img src="{{asset('public/img/user.png')}}" alt="FERNANDO HENRIQUE PIRES MOCELIN MORAES" class="mx-auto d-block">
 		</div>
 		<div class="col-8">
-				<p>Graduado em Direito pela Pontifícia Universidade Católica do Paraná (PUCPR), tem MBA Executivo em Direito Empresarial pela Fundação Getulio Vargas (FGV) e atualmente é pós-graduando em Novo Direito do Trabalho pela Pontifícia Universidade Católica do Rio Grande do Sul. É sócio-fundador do escritório Fernando Mocelin Moraes & Advogados.</p>
-				
-				<p>Com forte atuação na área Jurídica, tem experiência na avaliação de pleitos, contestação de açöes, análise de provas documentais e orais, pesquisa de doutrina e jurisprudência, participação em audiências e preparo de recursos, defesas e alegações, atuando com foco no cumprimento de normas instituídas e excelência dos serviços prestados.</p>
-				
-				<p>Presta assessoria jurídica nos âmbitos do Direito Cível, Trabalhista e Penal, agindo no exame de casos, estudo e interpretação de leis, decreto-lei, regulamentos e outras determinações, tratando demandas conforme legislações e normas estabelecidas na Constituição.</p>
+				<p>Advogado especializado em Direito Empresarial. Pós-graduado em MBA Executivo em Direito Empresarial pela Fundação Getúlio Vargas (FGV 2016-2017). Cursando Pós-graduação em Direito do Trabalho pela Pontifícia Universidade Católica do Rio Grande do Sul (2018-2019). É participante ativo do Grupo de Núcleos de Estudos Avançados de Direito do Trabalho e Socioeconômico, desde 2014 (coordenador: Prof. Dr. Marco Antônio César Villatore). É graduado em Direito pela Pontifícia Universidade Católica do Paraná (2011-2016).  É sócio-fundador do escritório Fernando Mocelin Moraes & Advogados. Atua no contencioso e consultivo das áreas de Direito Civil, Trabalhista e Empresarial. Forte atuação na área do Direito Médico e do Direito do Consumidor.</p>
 				
 		</div>		
 	</div>

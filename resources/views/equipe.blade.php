@@ -13,7 +13,19 @@
 			<br>
 			<h4>Fernando Henrique Pires Mocelin Moraes</h4>
 		</div>		
-	</div>	
+	</div>
+	<div class="col-md-auto">
+		<center><h1 class="border-bottom">Associado</h1></center>	
+	</div>
+	<div class="row justify-content-md-center mt-4 mb-4 ">		
+		<div class="col-md-auto">				
+			<a href="{{ url('cavallieri') }}">
+				<img src="{{asset('public/img/user.png')}}" alt="Roberto Cavallieri" class="mx-auto d-block">
+			</a>
+			<br>
+			<h4>Roberto Cavallieri</h4>
+		</div>		
+	</div>		
 	<div class="col-md-auto">
 		<center><h1 class="border-bottom">Estagiário</h1></center>
 	</div>
