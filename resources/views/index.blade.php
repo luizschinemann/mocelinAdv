@@ -17,11 +17,17 @@
 
 <div class="container">
     <div class=" mt-4 mb-4 row">
+        <div>Areas de atuacao</div>
         <div class="col-sm">Trabalhista</div>
         <div class="col-sm">Healthcare</div>
         <div class="col-sm">Direito do consumidor</div>
         <div class="col-sm">Civel</div>
-    </div>
+    </div>    
+</div>
+<div class="container">
+    <div class="mt-4 mb-4 row-6">
+       teste
+    </div>    
 </div>
 
 
