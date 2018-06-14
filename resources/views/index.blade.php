@@ -42,8 +42,10 @@
             </div>
         </div>
     </div>
-    <div class="row-6">
-        <a href="http://mocelinmoraes.com.br/mocelinAdv/publicacoes/artigos" class="btn btn-primary btn-lg disabled" role="button" >Acessar todos os artigos</a>
+    <div class="row mb-4">
+        <div class="col-4">
+            <a href="http://mocelinmoraes.com.br/mocelinAdv/publicacoes/artigos" class="btn btn-primary btn-lg disabled" role="button" >Acessar todos os artigos</a>
+        </div>
     </div>
     
 </div>
