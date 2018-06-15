@@ -19,7 +19,9 @@
     <div class=" mt-4 mb-4 row-">
         <h2 class="border-bottom mb-4">Áreas de atuação</h2>
         <div class="row">
-            <div class="col-3">Trabalhista</div>
+            <div class="col-3">
+                <img  src="{{asset('public/img/trabalhista.png')}}" >
+            </div>
             <div class="col-3">Healthcare</div>
             <div class="col-3">Direito do consumidor</div>
             <div class="col-3">Civel</div>
