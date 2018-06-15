@@ -3,30 +3,18 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="d-block w-100" src="{{asset('public/img/slider/slide-3.jpg')}}" alt="">
+            <img class="d-block w-100" src="{{asset('public/img/slider/slide-1.jpg')}}" alt="First slide">
             <div class="carousel-caption d-none d-md-block">
             <h2>Transparência, senso crítico, capacidade técnica e objetividade</h2>
-            
             </div>
         </div>
         <div class="carousel-item">
             <img class="d-block w-100" src="{{asset('public/img/slider/slide-2.jpg')}}" alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+            <h2>Transparência, senso crítico, capacidade técnica e objetividade</h2>
+            </div>
         </div>
     </div>
-</div>
-
-<div class="container">
-    <div class=" mt-4 mb-4 row-">
-        <h2 class="border-bottom mb-4">Áreas de atuação</h2>
-        <div class="row">
-            <div class="col-3">
-                <img  src="{{asset('public/img/trabalhista.png')}}" >
-            </div>
-            <div class="col-3">Healthcare</div>
-            <div class="col-3">Direito do consumidor</div>
-            <div class="col-3">Civel</div>
-        </div>
-    </div>    
 </div>
 <div class="container">
     <div class="mt-4 row-6">
