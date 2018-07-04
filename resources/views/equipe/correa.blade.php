@@ -7,7 +7,7 @@
 
 	<div class="mt-4 mb-4 row">
 		<div class="mr-2 col-3">
-			<img src="{{asset('public/img/user.png')}}" alt="FERNANDO HENRIQUE PIRES MOCELIN MORAES" class="mx-auto d-block">
+			<img src="{{asset('public/img/equipe/rodrigo_correa.jpg')}}" alt="FERNANDO HENRIQUE PIRES MOCELIN MORAES" class="mx-auto d-block">
 		</div>
 		<div class="col-8">
 		<p>Acadêmico do curso de Direito da UniCuritiba.</p>
