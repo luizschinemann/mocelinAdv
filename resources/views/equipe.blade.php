@@ -8,7 +8,7 @@
 	<div class="row justify-content-md-center mt-4 mb-4 ">		
 		<div class="col-md-auto">				
 			<a href="{{ url('fernando-mocelin-moraes') }}">
-				<img src="{{asset('public/img/user.png')}}" alt="FERNANDO HENRIQUE PIRES MOCELIN MORAES" class="mx-auto d-block">
+				<img src="{{asset('public/img/equipe/fernando_mocelin.jpg')}}" alt="FERNANDO HENRIQUE PIRES MOCELIN MORAES" class="mx-auto d-block">
 			</a>
 			<br>
 			<h4>Fernando Henrique Pires Mocelin Moraes</h4>
