@@ -5,7 +5,7 @@
         <div class="carousel-item active">
             <img class="d-block w-100" src="{{asset('public/img/slider/slide-1.jpg')}}" alt="First slide">
             <div class="carousel-caption d-none d-md-block">
-            <h2>Transparência, senso crítico, capacidade técnica e objetividade</h2>
+            
             </div>
         </div>
         
