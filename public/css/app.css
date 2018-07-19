@@ -2852,12 +2852,12 @@ fieldset:disabled a.btn {
 }
 
 .btn-mocelin{
-  color: #6f6b22;
+  color: #afaa5b;
   background-color: #224268;
   border-color: #224268;
 }
 .btn-mocelin:hover{
-  color: #6f6b22;
+  color: #afaa5b;
   background-color: #1c3858;
   border-color: #1c3858;
 }
@@ -10421,4 +10421,9 @@ background-color:#224268;
   background-size: auto auto;
   height:150px;
   color:#fff;
+}
+
+.box-artigos{
+  background-color: #EBEBEB;
+  padding:6px;
 }
