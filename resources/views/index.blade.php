@@ -31,7 +31,7 @@
     </div>
     <div class="row mb-4">
         <div class="col text-center">
-            <a href="http://mocelinmoraes.com.br/mocelinAdv/publicacoes/artigos" class="btn btn-primary btn-lg" role="button" >Acessar todos os artigos</a>
+            <a href="http://mocelinmoraes.com.br/mocelinAdv/publicacoes/artigos" class="btn btn-mocelin btn-lg" role="button" >Acessar todos os artigos</a>
         </div>
     </div>
     
@@ -63,7 +63,7 @@
     </div>
     <div class="row mb-4">
         <div class="col text-center">
-            <a href="http://mocelinmoraes.com.br/mocelinAdv/publicacoes/noticias" class="btn btn-primary btn-lg" role="button" >Acessar todas as notícias</a>
+            <a href="http://mocelinmoraes.com.br/mocelinAdv/publicacoes/noticias" class="btn btn-mocelin btn-lg" role="button" >Acessar todas as notícias</a>
         </div>
     </div>
     
