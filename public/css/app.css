@@ -2851,6 +2851,17 @@ fieldset:disabled a.btn {
   pointer-events: none;
 }
 
+.btn-mocelin{
+  color: #6f6b22;
+  background-color: #224268;
+  border-color: #224268;
+}
+.btn-mocelin:hover{
+  color: #6f6b22;
+  background-color: #1c3858;
+  border-color: #1c3858;
+}
+
 .btn-primary {
   color: #fff;
   background-color: #007bff;
