@@ -4,18 +4,15 @@
     <div class="carousel-inner">
         <div class="carousel-item active">
             <img class="d-block w-100" src="{{asset('public/img/slider/slide-1.jpg')}}" alt="">
-            <div class="carousel-caption d-none d-md-block">            
-            </div>
+            <div class="carousel-caption d-none d-md-block"></div>
         </div>
         <div class="carousel-item active">
             <img class="d-block w-100" src="{{asset('public/img/slider/slide-4.jpg')}}" alt="">
-            <div class="carousel-caption d-none d-md-block">            
-            </div>
+            <div class="carousel-caption d-none d-md-block"></div>
         </div>
-        
     </div>
 </div>
-<div class="container">''
+<div class="container">
     <div class="mt-4 row-6">
         <h2 class="border-bottom mb-4">Artigos</h2>
         <div class="row">
@@ -31,7 +28,7 @@
             <div class="col-3">
                 <a href="{{asset('public/files/O entrelace entre o Direito do Consumidor e os contratos de planos de saude.docx')}}">
                 <div class="box-artigos">
-                <img src="{{asset('public/img/artigos/defesa_consumidor.jpg')}}" class="rounded d-block" style="width:180px;" alt="A crise brasileira e a atuação do Estado sob o enfoque do Estado">
+                    <img src="{{asset('public/img/artigos/defesa_consumidor.jpg')}}" class="rounded d-block" style="width:180px;" alt="A crise brasileira e a atuação do Estado sob o enfoque do Estado">
                 </div>
                 <span>O entrelace entre o Direito do Consumidor e os contratos de planos de saúde</span>
                 </a> 
