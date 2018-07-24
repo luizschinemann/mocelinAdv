@@ -10428,3 +10428,13 @@ background-color:#224268;
   padding:6px;
   width:193px;
 }
+
+.headerQuemSomos{
+  background-color: #b1b1b1;
+  background-image: url('/mocelinAdv/public/img/quem-somos.jpg');
+  background-repeat: repeat;
+  background-position: center center;
+  background-size: auto auto;
+  height:200px;
+  color:#fff;
+}

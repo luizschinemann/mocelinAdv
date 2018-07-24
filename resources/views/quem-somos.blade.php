@@ -1,6 +1,8 @@
 @extends('layout.app')
 @section('content')
-<img  src="{{asset('public/img/quemsomos.png')}}" class="img-fluid" alt="Quem somos">
+<div class="headerQuemSomos d-flex">
+    <div class="h1 align-middle align-items-center d-flex justify-content-center" style="text-shadow: 2px 2px 4px #6d6c6c;width:100%"><center>Quem Somos</center></div>
+</div>
 <div class="container">
     <div class="row mt-4 mb-4">
         <div class="col-5">
