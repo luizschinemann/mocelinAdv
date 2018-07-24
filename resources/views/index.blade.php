@@ -60,19 +60,19 @@
     <div class="mt-4 row-6">
         <h2>Notícias</h2>
         <div class="row">
-            <div class="col-2">
+            <div class="col-sm-12 col-md-6 col-lg-3 mb-4">
                 <a href="https://economia.uol.com.br/noticias/redacao/2018/06/07/oit-analisa-hoje-se-brasil-preserva-acordos-coletivos-com-trabalhador.htm">
                 <img src="{{asset('public/img/artigos/noticia.jpg')}}" class="rounded d-block" style="width:125px;">
                 <span>OIT analisa hoje se Brasil preserva acordos coletivos com trabalhador</span>
                 </a>
             </div>
-            <div class="col-2">
+            <div class="col-sm-12 col-md-6 col-lg-3 mb-4">
                 <a href="https://economia.estadao.com.br/blogs/o-seguro-morreu-de-velho/doencas-do-trabalho-devem-ser-indenizadas-pelo-empregador/">
                 <img src="{{asset('public/img/artigos/noticia.jpg')}}" class="rounded d-block" alt="" style="width:125px;">
                 <span>Doenças do Trabalho devem ser indenizadas pelo empregador</span>
                 </a>
             </div>
-            <div class="col-2">
+            <div class="col-sm-12 col-md-6 col-lg-3 mb-4">
                 <a href="https://www12.senado.leg.br/noticias/materias/2018/06/06/aprovada-isencao-de-carencia-para-atendimento-de-urgencia-por-planos-de-saude">
                 <img src="{{asset('public/img/artigos/noticia.jpg')}}" class="rounded d-block" alt="" style="width:125px;">
                 <span>Aprovada isenção de carência para atendimento de urgência por planos de saúde</span>
