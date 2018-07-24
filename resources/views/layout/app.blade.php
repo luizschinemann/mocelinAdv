@@ -2,7 +2,7 @@
 <html lang="{{config('app.locale')}}">
     <head>
         <title>Fernando Mocelin Moraes & Advogados</title>
-    <link rel="stylesheet" href="{{asset('public/css/app.css')}}" type="text/css">
+    <link rel="stylesheet" href="{{asset('css/app.css')}}" type="text/css">
     
     
     </head>    
