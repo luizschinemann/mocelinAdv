@@ -29,7 +29,7 @@
     <div class="mt-4 row-6">
         <h2 class="border-bottom mb-4">Artigos</h2>
         <div class="row">
-            <div class="col-3">
+            <div class="col-sm-12 col-md-6 col-lg-3 mb-4">
                 <a href="{{asset('public/files/A crise brasileira e a atuação do Estado sob o enfoque do Estado.docx')}}">
                 <div class="box-artigos">
                     <img src="{{asset('public/img/artigos/crise_brasileira.jpg')}}" class="rounded d-block" style="width:180px;" alt="A crise brasileira e a atuação do Estado sob o enfoque do Estado">
@@ -38,7 +38,7 @@
                     <span>A crise brasileira e a atuação do Estado sob o enfoque do Estado</span>
                 </a>
             </div>
-            <div class="col-3">
+            <div class="col-sm-12 col-md-6 col-lg-3 mb-4">
                 <a href="{{asset('public/files/O entrelace entre o Direito do Consumidor e os contratos de planos de saude.docx')}}">
                 <div class="box-artigos">
                     <img src="{{asset('public/img/artigos/defesa_consumidor.jpg')}}" class="rounded d-block" style="width:180px;" alt="A crise brasileira e a atuação do Estado sob o enfoque do Estado">
