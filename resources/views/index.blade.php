@@ -10,6 +10,10 @@
             <img class="d-block w-100" src="{{asset('public/img/slider/slide-4.jpg')}}" alt="">
             <div class="carousel-caption d-none d-md-block"></div>
         </div>
+        <div class="carousel-item">
+            <img class="d-block w-100" src="{{asset('public/img/slider/slide-5.jpg')}}" alt="">
+            <div class="carousel-caption d-none d-md-block"></div>
+        </div>
     </div>
 
     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
