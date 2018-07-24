@@ -1,6 +1,8 @@
 @extends('layout.app')
 @section('content')
-<img src="{{asset('public/img/areasatuacao.png')}}"  class="img-fluid" >
+<div class="headerQuemSomos d-flex">
+        <div class="h1 align-middle align-items-center d-flex justify-content-center" style="text-shadow: 2px 2px 4px #6d6c6c;width:100%"><center>Áreas de atuação</center></div>
+    </div>
     <div class="container">
         <b class="title blue">DIREITO DO TRABALHO</b><br><br>
         
