@@ -26,7 +26,7 @@
                         <a class="dropdown-item" href="{{ url('/publicacoes/noticias') }}">Notícias</a>
                     </div>
                 </li>
-                <form method="POST" action="{{ route('login') }}">
+               <!-- <form method="POST" action="{{ route('login') }}">
                         @csrf
 
                         <div class="form-group row">                            
@@ -45,7 +45,7 @@
                                 <button type="submit" class="btn btn-primary">
                                     {{ __('Login') }}
                                 </button>
-                    </form>     
+                    </form>   -->  
                 <!--<li class="nav-item">
                     <a class="nav-link" href="contato">Contato</a>
                 </li>-->  
